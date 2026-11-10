@@ -16,8 +16,7 @@ This Excel portfolio project demonstrates financial controlling, budget monitori
 ## Tools & Skills
 - Microsoft Excel, SUMIFS, financial variance analysis, conditional formatting, data visualization, and management reporting.
 ## Executive Dashboard Preview
-![Executive Dashboard Q1 2025]
-(Executive_Dashboard_Q1_2025.png)
+![Executive Dashboard Q1 2025](Executive_Dashboard_Q1_2025.png)
 ## Key Insights
 - Profit was below budget in January and February, driven by cost overruns and weaker revenue performance in February. March showed a positive recovery. The analysis highlights the importance of materials cost control and regular budget monitoring.
 ## Project File
